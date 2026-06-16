@@ -1,0 +1,6 @@
+{
+  "name": "Gym Tracker",
+  "description": "A highly energetic and polished gym workout tracker with live timer, custom exercise logging, and workout history statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
